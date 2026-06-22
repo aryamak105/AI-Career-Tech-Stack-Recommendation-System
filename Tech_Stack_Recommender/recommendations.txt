@@ -1,0 +1,9 @@
+TECH STACK RECOMMENDATION REPORT
+==================================================
+Name : arya
+Best Career : Data Scientist
+Match Score : 83.33%
+Salary : ₹8 - ₹18 LPA
+
+Missing Skills:
+- statistics
